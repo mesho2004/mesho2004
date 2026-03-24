@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I’m Ahmed! 👋
 
-<!--
-**mesho2004/mesho2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 About Me
+I'm a **Flutter Developer** passionate about building accessible and impactful mobile experiences. My work focuses on bridging the gap between education and technology to create tools that empower every learner.
+
+* 🚀 **Graduation Project:** Developing an educational platform for children with **ADHD**, using gamification to teach Arabic, English, and Math.
+* 🧠 **Deep Dive:** Currently exploring Computer Vision and Object Detection using **YOLOv8, v12, and v26**.
+* 🤝 **Collaboration:** I enjoy working in agile teams (currently leading a 5-person project) and solving complex software/hardware puzzles.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 Connect with me
+* 📧 **Email:** [Insert your email here]
+* 💼 **LinkedIn:** [Insert your LinkedIn profile link here]
+* 🌍 **Portfolio:** [Optional: Link to your website]
+
+---
+
+<p align="center">
+  <i>"Turning Flutter widgets into tools for change."</i>
+</p>
