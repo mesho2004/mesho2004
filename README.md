@@ -1,12 +1,5 @@
 # Hi there, I’m Ahmed! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesho2004&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesho2004&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📱 About Me
 I'm a **Flutter Developer** passionate about building accessible and impactful mobile experiences. My work focuses on bridging the gap between education and technology to create tools that empower every learner.
 
