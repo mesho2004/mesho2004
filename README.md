@@ -10,7 +10,6 @@
   </a>
 </p>
 
----
 
 ## ⚡ About Me
 A results-driven **Mobile Application Developer** specializing in the **Flutter ecosystem**. I bridge the gap between complex backend logic and intuitive user experiences. Currently, I am leading a 5-person team to revolutionize education for neurodivergent learners.
