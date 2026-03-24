@@ -20,9 +20,9 @@ I'm a **Flutter Developer** passionate about building accessible and impactful m
 ---
 
 ### 📫 Connect with me
-* 📧 **Email:** [Insert your email here]
-* 💼 **LinkedIn:** [Insert your LinkedIn profile link here]
-* 🌍 **Portfolio:** [Optional: Link to your website]
+* 📧 **Email:** [ahmeddeisa005@gmail.com]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/ahmedeisa55/]
+* 🌍 **Portfolio:** [https://mesho2004.github.io/flutter_portfolio/]
 
 ---
 
