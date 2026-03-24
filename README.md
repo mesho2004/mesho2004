@@ -1,10 +1,16 @@
 # 👋 Hi, I'm Ahmed! | Flutter Developer & AI Enthusiast
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=02569B&height=250&section=header&text=AHMED%20DEVELOPER&fontSize=70&fontColor=ffffff&animation=fadeIn&subText=Flutter%20%7C%20Computer%20Vision%20%7C%20AI&subTextSize=20" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+Developer;Computer+Vision+Explorer;Building+accessible+tech+for+ADHD;Integrating+YOLO+models" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Building+Apps+for+ADHD+Learners;Integrating+YOLOv8,+v12,+%26+v26;Mastering+Flutter+%26+Dart;Transforming+Education+with+AI" alt="Typing SVG" />
   </a>
 </p>
+
+---
 
 ## ⚡ About Me
 A results-driven **Mobile Application Developer** specializing in the **Flutter ecosystem**. I bridge the gap between complex backend logic and intuitive user experiences. Currently, I am leading a 5-person team to revolutionize education for neurodivergent learners.
