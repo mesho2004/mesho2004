@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed! | Flutter Developer & AI Enthusiast
+# 👋 Hi, I'm Ahmed! | Flutter Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20with%20Purpose&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -6,11 +6,13 @@
 
 
 ## ⚡ About Me
-A results-driven **Mobile Application Developer** specializing in the **Flutter ecosystem**. I bridge the gap between complex backend logic and intuitive user experiences. Currently, I am leading a 5-person team to revolutionize education for neurodivergent learners.
+With a deep focus on the Flutter ecosystem, I specialize in building high-performance, cross-platform applications with clean architecture.
 
-- 🔭 **Graduation Project:** Architecting an AI-powered educational suite for children with **ADHD**.
-- 🧠 **Focus Area:** Integrating Real-time Object Detection (**YOLOv8, v12, v26**) into mobile environments.
-- ⚡ **Fun Fact:** I enjoy the challenge of low-level hardware troubleshooting and software optimization.
+
+- 🔭 **Frontend:** Advanced UI/UX, Custom Animations, State Management (Bloc/Cubit).
+- 🧠 **Backend:** Firebase Auth, Firestore, Cloud Functions, and REST API integration.
+- ⚡ **Computer Vision:** Porting heavy AI models (YOLO) to mobile for real-time edge computing.
+- 🛠️ **Tools:** Git, GitHub Actions, Postman, and Android Studio.
 
 ---
 
