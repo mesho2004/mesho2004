@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ahmed! | Flutter Developer & AI Enthusiast
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20with%20Purpose&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+Developer;Computer+Vision+Explorer;Building+accessible+tech+for+ADHD;Integrating+YOLO+models" alt="Typing SVG" />
+  </a>
 </p>
 
 ## ⚡ About Me
