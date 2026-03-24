@@ -66,5 +66,5 @@ A results-driven **Mobile Application Developer** specializing in the **Flutter 
   <i>"Turning Flutter widgets into tools for change."</i>
 </p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/mesho2004/mesho2004/blob/output/github-snake-dark.svg)
 
