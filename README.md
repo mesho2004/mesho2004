@@ -41,12 +41,12 @@ A results-driven **Mobile Application Developer** specializing in the **Flutter 
 
 ## 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mesho2004&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesho2004&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesho2004&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ A results-driven **Mobile Application Developer** specializing in the **Flutter 
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=mesho2004&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 <p align="center">
