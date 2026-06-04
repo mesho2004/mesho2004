@@ -42,15 +42,6 @@ With a deep focus on the Flutter ecosystem, I specialize in building high-perfor
 
 ---
 
-## 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesho2004&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesho2004&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesho2004&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
